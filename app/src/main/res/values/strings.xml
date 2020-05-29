@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calcular Pago Mensual</string>
+    <string name="etNombre">Usuario</string>
+    <string name="etContraseña">Contraseña</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnGuardar">Guardar</string>
+</resources>
